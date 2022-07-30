@@ -39,8 +39,3 @@ With the help of this application one can prevent their Diseases from spreading 
 - Wasn't able to directly show the information from google so I went with putting Screenshots :sweat_smile:
 - Changing Dependencies Of Android Studio caused Immense Difficulty :disappointed_relieved:
 - Updating Gradle File :worried: and Version of Android Studio
-
-
-## Video Link
-- [See Video here](https://drive.google.com/file/d/1U6QOl09OFFLLr__uMesfDzbakjvDGtNC/view?usp=sharing) :clapper:
-
